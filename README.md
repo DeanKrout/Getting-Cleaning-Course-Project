@@ -9,7 +9,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-One R script called run_analysis.R does the following:
+One R script called run_analysis.R does the following...
   (Some lines have been commented out since they were only needed once to download and unzip the data)
 1) Merges the training and the test sets to create one data set.
 2) Extracts only the measurements on the mean and standard deviation for each measurement. 
